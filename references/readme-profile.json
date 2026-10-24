@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 191｜Soft-edged Rectangular Pastel Field: turns a photo into a small, roughly rectangular patch of colour with naturally frayed, rubbed-out edges that floats in wide whitespace like a little window or memory slice. Inside, continuous horizontal bands of dry pastel blend, overlap and rub into one another to form a landscape colour field, with paper grain and bare paper as surface texture, and a few naive, simplified forms placed on top; the subject may touch or slightly break the patch's edge. Cool grey-blue, misty blue, pale violet and grey-green lead, with small warm notes of pink-brown, brick red or apricot, and a few light literary words sit outside the patch. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-191 or asks for soft-edged chalk-pastel colour fields, banded pastel landscapes or poetic small vignettes from a photo.",
+  "short_description": "毛边矩形粉彩色域：把照片画进一块毛边小矩形色域，横向粉彩色层擦染，悬浮在大片留白里",
+  "zh-CN": {
+    "name": "毛边矩形粉彩色域",
+    "tagline": "把照片画进一块边缘毛化的小矩形粉彩色域，让它悬浮在大片留白里。",
+    "look": "画面中心是一块小小的、边缘自然毛化的近矩形色块，像擦出来的一小幅画，悬浮在大片留白中。色块里先铺一层层连续的横向色带，再在上面安放朴拙简化的景物；色带彼此渗入、擦染，带粉质颗粒、纸纹和露底，主体可以贴边或稍稍探出色块。颜色以灰蓝、雾蓝、淡紫、灰绿为主，用粉棕、砖红、暖杏点一点暖色。文字只放在色块外的留白里，用轻细的人文感字体。",
+    "traits": ["毛边色域", "横向色层", "粉彩擦染", "冷主暖辅", "小窗留白"],
+    "good": [
+      "有水平层次的风景：海平线、田野、湖面、远山、雪原",
+      "天空、水面和地面分层清楚的场景：日落的海边、草原小路、河岸",
+      "想做旅行笔记、诗集插画或明信片的安静照片"
+    ],
+    "poor": [
+      "竖向结构为主或细节密集的照片：高楼特写、复杂室内、机械",
+      "需要人物表情和身份细节的人像",
+      "想要硬边方框、满版插画或鲜艳糖果色的需求"
+    ]
+  },
+  "en": {
+    "name": "Soft-edged Rectangular Pastel Field",
+    "tagline": "Paints a photo into a small frayed-edged rectangle of pastel colour floating in wide whitespace.",
+    "look": "At the centre is a small, roughly rectangular patch of colour with naturally frayed edges, like a little picture rubbed onto the paper, floating in wide whitespace. Inside, continuous horizontal bands of colour are laid down first and simple, naive forms are placed on top; the bands bleed and rub into each other, with chalky grain, paper texture and bare paper showing, and the subject can touch the edge or poke slightly out of the patch. Grey-blue, misty blue, pale violet and grey-green lead, with a little warmth from pink-brown, brick red or apricot. Text sits only in the whitespace outside the patch, in a light, literary typeface.",
+    "traits": ["Frayed colour field", "Horizontal bands", "Rubbed pastel", "Cool with warm accent", "Window in whitespace"],
+    "good": [
+      "Landscapes with horizontal layers: a sea horizon, fields, a lake, distant hills, a snowfield",
+      "Scenes where sky, water and ground separate clearly: a beach at sunset, a path across grassland, a riverbank",
+      "Quiet photos you want for a travel journal, poetry illustration or postcard"
+    ],
+    "poor": [
+      "Photos built on vertical structure or dense detail: close-ups of tall buildings, cluttered interiors, machinery",
+      "Portraits that need expression and identifying detail",
+      "Requests for a hard-edged frame, full-bleed illustration or bright candy colours"
+    ]
+  },
+  "ja": {
+    "name": "毛羽立つ矩形パステル色面",
+    "tagline": "写真を縁の毛羽立った小さな矩形のパステル色面に描き、広い余白に浮かべます。",
+    "look": "画面の中心には、縁が自然に毛羽立った小さなほぼ長方形の色面があり、紙にこすりつけた小さな絵のように広い余白に浮かんでいます。色面の中にはまず横向きの色帯を連続して敷き、その上に素朴に簡略化した景物を置きます。色帯どうしはにじみ合い、こすれ合い、粉っぽい粒子、紙目、紙の地が見えます。主役は色面の縁に触れたり、少しはみ出したりしてもかまいません。色は灰青、霧のような青、淡い紫、灰緑が中心で、ピンクがかった茶、レンガ色、杏色で暖かさを少し添えます。文字は色面の外の余白にだけ、軽やかで人文的な書体で置きます。",
+    "traits": ["毛羽立つ色面", "横の色帯", "こすったパステル", "寒色に暖色の差し色", "余白の中の小窓"],
+    "good": [
+      "横の層がある風景：水平線、畑、湖面、遠くの山、雪原",
+      "空、水、地面がはっきり分かれた場面：夕暮れの海辺、草原の小道、川岸",
+      "旅のノート、詩集の挿絵、絵葉書にしたい静かな写真"
+    ],
+    "poor": [
+      "縦の構造が主役だったり細部が密だったりする写真：高層ビルのアップ、ごちゃついた室内、機械",
+      "表情や人物を見分ける細部が必要なポートレート",
+      "硬い縁の四角い枠、全面の挿絵、鮮やかなキャンディカラーを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "부드러운 사각 파스텔 색면",
+    "tagline": "사진을 가장자리가 보풀처럼 풀린 작은 사각 파스텔 색면에 그려 넓은 여백에 띄웁니다.",
+    "look": "화면 가운데에는 가장자리가 자연스럽게 풀린 작은 직사각형에 가까운 색면이 있어, 종이에 문질러 낸 작은 그림처럼 넓은 여백에 떠 있습니다. 색면 안에는 먼저 이어지는 가로 색띠를 깔고 그 위에 소박하게 단순화한 풍경을 놓습니다. 색띠는 서로 번지고 문질러지며 분필 같은 입자, 종이 결, 드러난 종이가 보이고, 주인공은 색면 가장자리에 닿거나 살짝 삐져나와도 됩니다. 색은 회청색, 안개 파랑, 연보라, 회녹색이 중심이고 분홍빛 갈색, 벽돌색, 살구색으로 따뜻함을 조금 더합니다. 글자는 색면 바깥 여백에만, 가볍고 인문적인 글꼴로 둡니다.",
+    "traits": ["풀린 가장자리 색면", "가로 색띠", "문지른 파스텔", "차가운 색과 따뜻한 포인트", "여백 속 작은 창"],
+    "good": [
+      "가로 층이 있는 풍경: 수평선, 들판, 호수, 먼 산, 설원",
+      "하늘, 물, 땅이 분명히 나뉘는 장면: 해 질 녘 바닷가, 초원 오솔길, 강가",
+      "여행 노트, 시집 삽화, 엽서로 쓰고 싶은 조용한 사진"
+    ],
+    "poor": [
+      "세로 구조가 중심이거나 디테일이 빽빽한 사진: 고층 건물 클로즈업, 복잡한 실내, 기계",
+      "표정과 인물 식별 디테일이 필요한 인물 사진",
+      "또렷한 사각 테두리, 꽉 찬 삽화, 선명한 캔디색을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "مساحة باستيل مستطيلة بحواف ناعمة",
+    "tagline": "يرسم الصورة داخل مستطيل صغير من ألوان الباستيل بحواف متآكلة، يطفو وسط فراغ واسع.",
+    "look": "في الوسط بقعة لونية صغيرة شبه مستطيلة بحواف متآكلة على نحو طبيعي، كأنها لوحة صغيرة فُركت على الورق، تطفو في فراغ واسع. في داخلها تُمد أولاً أشرطة لونية أفقية متصلة، ثم توضع فوقها أشكال بسيطة عفوية؛ تتداخل الأشرطة وتنمحي بعضها في بعض، مع حبيبات طباشيرية وملمس الورق وظهوره، ويمكن للعنصر أن يلامس حافة البقعة أو يبرز منها قليلاً. تتصدر الألوانَ درجاتُ الأزرق الرمادي والأزرق الضبابي والبنفسجي الفاتح والأخضر الرمادي، مع دفء قليل من البني الوردي أو الأحمر الطوبي أو المشمشي. لا يوضع النص إلا في الفراغ خارج البقعة، بخط خفيف ذي طابع أدبي.",
+    "traits": ["مساحة لونية متآكلة الحواف", "أشرطة أفقية", "باستيل مفروك", "برودة مع لمسة دافئة", "نافذة في الفراغ"],
+    "good": [
+      "مناظر طبيعية ذات طبقات أفقية: أفق البحر، الحقول، سطح البحيرة، التلال البعيدة، السهول الثلجية",
+      "مشاهد تنفصل فيها السماء والماء والأرض بوضوح: شاطئ عند الغروب، درب في مرج، ضفة نهر",
+      "صور هادئة تريدها لدفتر سفر أو رسم لديوان شعر أو بطاقة بريدية"
+    ],
+    "poor": [
+      "صور قائمة على بنية عمودية أو تفاصيل كثيفة: لقطات قريبة لمبانٍ عالية، غرف مزدحمة، آلات",
+      "صور شخصية تحتاج إلى تعابير الوجه وملامح التعرف",
+      "طلب إطار مستطيل حاد الحواف أو رسم يملأ الصفحة أو ألوان حلوى زاهية"
+    ]
+  }
+}
